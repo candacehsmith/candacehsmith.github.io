@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            C.H. Smith
+tagline:          'Creative Commons-licensed drawings by C.H. Smith'
+description:      ''
+baseurl: /
+
+
+author:
+  name:           'C.H. Smith'
+ 
+
+paginate:         5
+
+
+
+links:
+  - title: Github source repository
+    url: https://github.com/candacehsmith/candacehsmith.github.io
+    external: true
