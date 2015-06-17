@@ -12,13 +12,13 @@ Reproduction guidelines:  <span xmlns:dct="http://purl.org/dc/terms/" href="http
 -   TIFF (16064x19840 pixels) available for download [here](https://www.dropbox.com/s/7wjmr1pvigfj0yb/philosophical_schools.tif?dl=0).
 -   PDF available for download [here](https://www.dropbox.com/s/2826bydi1ypmues/philosophical_schools.pdf?dl=0).
 
-I retain copyright for this drawing, originally created in 1985 in ink on drawing film, as an illustration for *The Hellenistic Philosophers: Volume 1, Greek and Latin Texts with Notes and Bibliography*, A.A. Long, David N. Sedley, p.4, Cambridge University Press, 1987.
+I retain copyright for this drawing, originally created in 1985, hand drawn in ink on parchment with the labels inked separately on drafting film, as an illustration for *The Hellenistic Philosophers: Volume 1, Greek and Latin Texts with Notes and Bibliography*, A.A. Long, David N. Sedley, p.4, Cambridge University Press, 1987.
 
 
 This drawing has also been reused in the following:
 
 - *Scientific Method in Practice*, Hugh G. Gauch Jr, Cambridge University Press, 2002
 - *Why the Sky Is Blue*, Götz Hoeppe, Princeton University Press, 2007
-- *The Beginnings of Western Science: The European Scientific Tradition in Philosophical, Religious, and Institutional Context, Prehistory to A.D. 1450*, (2nd Edition) David C. Lindberg, 2008
-- Metropolitan Museum of Art, New York. Wall label in permanent installation (opened 2007) of Greek and Roman Art galleries.
+- *The Beginnings of Western Science: The European Scientific Tradition in Philosophical, Religious, and Institutional Context, Prehistory to A.D. 1450*, David C. Lindberg, University of Chicago Press, 1992, 2008
+- Metropolitan Museum of Art, New York. Wall label in permanent installation  of Greek and Roman Art galleries (opened 2007)
 - Martin Randall Travel, Itinerary Guide, Classical Greece, 2010

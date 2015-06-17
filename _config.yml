@@ -21,6 +21,3 @@ paginate:         5
 
 
 links:
-  - title: Github source repository
-    url: https://github.com/candacehsmith/candacehsmith.github.io
-    external: true
